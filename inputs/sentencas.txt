@@ -1,0 +1,26 @@
+Sentenças positivas
+"Hoje o dia foi incrível, consegui terminar tudo que me propus a fazer."
+
+"Agradeço pelas pequenas conquistas, elas me mantêm motivado todos os dias."
+
+"Me sinto confiante com o caminho que estou seguindo."
+
+Sentenças negativas
+"Sinto que estou ficando para trás, mesmo me esforçando ao máximo."
+
+"É frustrante quando as coisas não saem como o planejado."
+
+"Ando sem energia, como se nada estivesse fazendo sentido."
+
+Sentenças ambíguas/neutras
+"Tantas coisas mudaram nos últimos meses, é difícil acompanhar."
+
+"Não tenho certeza se estou tomando as decisões certas."
+
+"A rotina é pesada, mas às vezes parece que isso me dá foco."
+Sentenças reflexivas/profundas
+"Será que o sucesso é mesmo aquilo que dizem ou é algo que cada um define por si?"
+
+"Percebo que, muitas vezes, o medo de falhar paralisa mais do que o fracasso em si."
+
+"A vida é uma sequência de escolhas — algumas conscientes, outras nem tanto."
